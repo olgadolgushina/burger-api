@@ -1,2 +1,2 @@
-# burher-api
+# burger-api
 My Burger Api
